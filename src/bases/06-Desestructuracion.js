@@ -29,4 +29,5 @@ const arreglo=[1,2,4,5,6];
 const[x,y,,z,l]= arreglo;
 console.log(x,y,z,l);
 
+//Que onda saicooo
 
